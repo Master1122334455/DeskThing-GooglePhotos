@@ -1,5 +1,5 @@
 
-# Google Photos Tutorial
+# Google Photos
 
 To download the DeskThing Google Photos app download the .zip file at https://github.com/Master1122334455/DeskThing-GooglePhotos/releases/tag/Release
 
