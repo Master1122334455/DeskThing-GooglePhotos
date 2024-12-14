@@ -9,7 +9,7 @@ Once uploaded the application will require Google Cloud API credentials.
 
 
 To generate client ID and client secret
-This section explains how to generate a client ID and client secret on Google Developers Console. https://console.developers.google.com/apis/api/embeddedassistant.googleapis.com/overview
+This section explains how to generate a client ID and client secret on Google Developers Console. https://console.cloud.google.com/apis/api/photospicker.googleapis.com
 
 First, go to the Google Developers Console to enable Google Assistant API .
 
