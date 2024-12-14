@@ -11,7 +11,7 @@ Once uploaded the application will require Google Cloud API credentials.
 To generate client ID and client secret
 This section explains how to generate a client ID and client secret on Google Developers Console. https://console.cloud.google.com/apis/api/photospicker.googleapis.com
 
-First, go to the Google Developers Console to enable Google Assistant API .
+First, go to the Google Developers Console to enable Google Photo Picker API .
 
 Select Create project, enter a project name and select Create.
 
