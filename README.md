@@ -1,6 +1,8 @@
 
 # Google Photos
 
+Video Tutorial: https://youtu.be/wMS0fOaFTtg
+
 To download the DeskThing Google Photos app download the .zip file at https://github.com/Master1122334455/DeskThing-GooglePhotos/releases/tag/Release
 
 To upload the app in DeskThing, naviagate to the DeskThing application then go to Downloads and Upload App. Select the .zip file you just downloaded.
